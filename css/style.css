@@ -1,3 +1,12 @@
 body {
-    text-align: center;
+  text-align: center;
+  padding-top: 35px;
+  background: rgb(175, 206, 202);
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size: 3em;
+  color: rgb(243, 236, 134);
 }

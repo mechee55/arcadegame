@@ -67,7 +67,7 @@ class Player {
       this.y += 83
     }
 
-    // when it hits the river, bring the charactor back to the 
+    // when the player hits the river, bring the charactor back to the 
     // original position(202, 405) with a delay of 300 milliseconds
     if (this.y < 0) {
       setTimeout(function () {
